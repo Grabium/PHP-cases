@@ -1,0 +1,16 @@
+{
+    "name": "puro_php/puro_php",
+    "description": "Apenas para testes e aprendizado sobre o php e seu ambiente de funcionamento.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Azzevedo",
+            "email": "110872805+Grabium@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
